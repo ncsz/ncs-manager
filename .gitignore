@@ -1,0 +1,6 @@
+.settings
+*/.settings
+/ncs-manager-mapper/target
+/ncs-manager-pojo/target
+/ncs-manager-service/target
+/ncs-manager-web/target
